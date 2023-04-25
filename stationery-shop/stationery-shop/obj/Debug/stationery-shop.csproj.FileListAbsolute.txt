@@ -1,0 +1,6 @@
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\stationery-shop\stationery-shop\bin\stationery-shop.dll.config
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\stationery-shop\stationery-shop\bin\stationery-shop.dll
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\stationery-shop\stationery-shop\bin\stationery-shop.pdb
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\stationery-shop\stationery-shop\obj\Debug\stationery-shop.csprojResolveAssemblyReference.cache
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\stationery-shop\stationery-shop\obj\Debug\stationery-shop.dll
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\stationery-shop\stationery-shop\obj\Debug\stationery-shop.pdb

@@ -1,0 +1,6 @@
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\computer-center-courses\computer-center-courses\bin\computer-center-courses.dll.config
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\computer-center-courses\computer-center-courses\bin\computer-center-courses.dll
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\computer-center-courses\computer-center-courses\bin\computer-center-courses.pdb
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\computer-center-courses\computer-center-courses\obj\Debug\computer-center-courses.csprojResolveAssemblyReference.cache
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\computer-center-courses\computer-center-courses\obj\Debug\computer-center-courses.dll
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\computer-center-courses\computer-center-courses\obj\Debug\computer-center-courses.pdb

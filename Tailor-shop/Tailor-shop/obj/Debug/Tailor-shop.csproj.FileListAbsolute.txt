@@ -1,0 +1,6 @@
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\Tailor-shop\Tailor-shop\bin\Tailor-shop.dll.config
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\Tailor-shop\Tailor-shop\bin\Tailor-shop.dll
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\Tailor-shop\Tailor-shop\bin\Tailor-shop.pdb
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\Tailor-shop\Tailor-shop\obj\Debug\Tailor-shop.csprojResolveAssemblyReference.cache
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\Tailor-shop\Tailor-shop\obj\Debug\Tailor-shop.dll
+C:\Users\preethi\OneDrive\Documents\Visual Studio 2013\Projects\Tailor-shop\Tailor-shop\obj\Debug\Tailor-shop.pdb
